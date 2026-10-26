@@ -1,0 +1,6 @@
+{
+  "name": "ROHIT FURNITURE — Billing & Shop Management System",
+  "description": "Professional billing, inventory, Udhaar customer ledger, and sales reporting system for ROHIT FURNITURE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
